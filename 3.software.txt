@@ -1,0 +1,7 @@
+1.arduino 
+https://www.arduino.cc/
+
+2.Scratch 3.0 (STEM for children)
+Windows£º http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.3.exe
+
+Mac: http://cdn.kittenbot.cn/mac/Kittenblock-1.8.3.dmg

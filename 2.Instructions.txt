@@ -1,0 +1,21 @@
+
+Instructions:
+
+1. The expansion board is installed on the Arduino-UNO board 
+and the screw is fixed on the board.
+
+2.Connect the servos according to the assembly instructions: A0, A1, A2, A3;
+
+3.Bluetooth module connection, using DuPont line connection
+	VCC Connection 3.3V
+
+        GND Connect GND
+        TXD Connect D0(RX)
+        RXD Connect D1(TX)
+
+
+4.Note: The robot arm needs external power supply,
+  and the computer USB current is insufficient to drive four actuators at the same time!
+
+5.App install on mobile phone, Bluetooth connection control
+	

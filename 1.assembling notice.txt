@@ -1,0 +1,10 @@
+
+Assembling Notice£º
+
+1.you need to reset the servo position by electrifying before assembling the servos(important).£»
+
+2.don't insert wrong for servo cable£¨Brown is negative, red is positive, and orange is the signal line.£©£»
+
+3.assembling according to instructions  £»
+
+4.wooden parts£¬please pay attention¡£
